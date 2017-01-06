@@ -1,0 +1,32 @@
+.full
+{
+background-color : #FAEBD7;
+}
+p
+{
+font-family : georgia;
+}
+.cover
+{
+margin-left : 75px;
+}
+.head
+{
+font-family : cooper black;
+}
+.bhairava img
+{
+width : 300px;
+height : 350px;
+}
+.photos img
+{
+width : 300px;
+height: 300px;
+
+}
+.photos
+{
+display : flex;
+flex-warp : warp;
+}
