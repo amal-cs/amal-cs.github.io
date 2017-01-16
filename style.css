@@ -11,6 +11,12 @@ font-size : 40px;
 font-family : forte,algerian ;
 color : #E6E6FA;
 }
+.shop
+{
+  font-family : forte,algerian;
+  color : #E6E6FA ;
+  font-size : 30px;
+}
 .molly
 {
 font-family : forte,algerian;
@@ -20,8 +26,8 @@ font-size : 30px;
 }
 .photos img
 {
-width : 1450px;
-height : 500px;
+width : 1250px;
+height : 325px;
 }
 .photos
 {
