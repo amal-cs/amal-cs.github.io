@@ -1,0 +1,60 @@
+.logo
+{
+position : absolute;
+top : 55px;
+}
+.head
+{
+text-align : center;
+font-size : 35px;
+font-family : forte;
+}
+ul
+{
+list-style-type : none;
+margin : 0;
+padding : 0;
+overflow : hidden;
+background-color : #333333;
+}
+li
+{
+color : white;
+font-size : 20px;
+margin-right : 60px;
+float : left;
+}
+li a
+{
+font-size : 20px;
+display : block;
+color : white;
+text-decoration : none;
+}
+li a:hover
+{
+background-color : #111111;
+}
+.photos
+{
+background-color : white;
+display : flex;
+flex-warp : warp;
+}
+.photos img
+{
+padding-left: 100px;
+margin-left : 0px;
+width : 160px;
+height : 300px;
+}
+h2
+{
+font-family : forte;
+font-size : 25px;
+text-align : center;
+}
+a
+{
+font-size : 25px;
+}
